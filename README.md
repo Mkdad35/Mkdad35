@@ -38,5 +38,5 @@ A passionate Full-Stack Developer focused on building clean, high-performance we
 
 ## 📈 Let's Connect!
 
-*   💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com/in/mkdad-mohammed-621419266)
-*   📧 **Email:** [your.email@example.com](mailto:mkdad99m@example.com)
+* 💼 **LinkedIn:** [Mkdad Mohammed](https://linkedin.com)
+* 📧 **Email:** [mkdad99m@example.com](mailto:mkdad99m@example.com)
